@@ -4,7 +4,7 @@ import  CarSearch  from "./components/CarSearch";
 import  CarValue  from "./components/CarValue";
 function App() {
   return (
-    <div>
+    <div className="container">
       <CarForm />
       <CarList />
       <CarSearch />
