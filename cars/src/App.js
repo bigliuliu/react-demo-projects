@@ -4,7 +4,7 @@ import  CarSearch  from "./components/CarSearch";
 import  CarValue  from "./components/CarValue";
 function App() {
   return (
-    <div className="container">
+    <div className="container is-fluid">
       <CarForm />
       <CarList />
       <CarSearch />
