@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+use redux / toolkit on car project ,you can add, edit and item of cars
+use bulma as css template
 
 ## Available Scripts
 
